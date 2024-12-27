@@ -1,6 +1,13 @@
 # Random-Dog-images-Generator
 A simple, fully responsive web application that fetches random dog images from a free API. It allows users to view a new random dog image with the click of a button. Built using HTML, CSS, and JavaScript.
 <br>
+<h3>Visit Webpage</h3>
+https://mohammadzameerp.github.io/Random-Dog-images-Generator/
+
+<br>
+<h4>Note</h4>
+API(Application Programming Interface) will not work on multiple requests of user.
+
 <h3>Features</h3>
 Displays a random dog image each time the user clicks the "Show" button.
 Built with HTML, CSS, and JavaScript.
